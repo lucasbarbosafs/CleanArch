@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "lucasbarbosafs",
+  "identity": "Lucasbarbosafs.CleanArch",
+  "name": "template de solução para projeto com arquitetura limpa",
+  "shortName": "cleanarch",
+  "classifications": ["Template", "MVC", "Web"],
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "CleanArch",
+  "preferNameDirectory": true
+}
